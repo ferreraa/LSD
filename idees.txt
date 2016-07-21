@@ -1,0 +1,10 @@
+classe evenement => 
+-mort
+-atterrissage
+-transition entre 2 niveaux.
+-...
+
+ces evenements sont utilisés lors des collisions.
+
+
+
